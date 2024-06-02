@@ -1,0 +1,6 @@
+Flask
+pip
+numpy
+opencv-python
+webcolors
+pillow
